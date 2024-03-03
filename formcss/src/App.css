@@ -24,7 +24,7 @@ p{
 }   
 
 body{
-    background-color: #3faf82;
+    /* background-color: #3faf82; */
     display: flex;
     justify-content: center;
     align-items: center;
